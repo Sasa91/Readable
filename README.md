@@ -10,6 +10,6 @@ This is the second project for Udacity's React Fundamentals course.
 1. Start backend server: `npm start`
 
 ### Set up frontend server
-1. Git clone this repo: `git clone https://github.com/dhtlee/reactnd-project-readable.git`
+1. Git clone this repo: `git clone https://github.com/Sasa91/Readable.git`
 2. Install dependencies: `npm install`
 3. Start frontend server: `npm start`
